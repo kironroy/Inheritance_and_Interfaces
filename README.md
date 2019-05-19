@@ -1,2 +1,2 @@
 # Inheritance_and_Interfaces
-Small projects about C# inheritance and interfaces
+Small console app about C# inheritance and interfaces
